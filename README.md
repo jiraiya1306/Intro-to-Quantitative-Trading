@@ -15,10 +15,6 @@ This project, conducted from May ’23 to Jul ’23 as part of the Finance and A
 - [Dynamic Trailing Stop Loss](#dynamic-trailing-stop-loss)
 - [Backtesting](#backtesting)
 - [Performance Analysis and Optimization](#performance-analysis-and-optimization)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Trading Strategies
@@ -51,9 +47,9 @@ The strategies were extensively backtested using Blueshift, a cloud-based backte
 
 Thorough performance analysis was conducted on the backtested results to identify strengths and weaknesses of each strategy. Optimization techniques were applied to enhance the overall performance and profitability.
 
-## Installation
+## Contact
 
-To install the required dependencies, run:
+For questions or suggestions, please contact:
 
-```bash
-pip install -r requirements.txt
+Name: Dhruv Mittal  
+Email: mdhruv22@iitk.ac.in
